@@ -1,8 +1,8 @@
 // You should save your application's data inside of app/data/friends.js as an array of objects. Each of these objects should roughly follow the format below.
 var friendsArray = [
   {
-  "name": "Ahmed",
-  "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+  "name": "Ran Philippo",
+  "photo": "https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947_960_720.jpg",
   "scores": [
   "5",
   "1",
@@ -17,8 +17,8 @@ var friendsArray = [
   ]
   },
   {
-  "name": "Jacob Deming",
-  "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+  "name": "Jasmin Cobe",
+  "photo": "https://cdn.pixabay.com/photo/2016/03/23/04/01/beautiful-1274056_960_720.jpg",
   "scores": [
   "4",
   "2",
@@ -33,8 +33,8 @@ var friendsArray = [
   ]
   },
   {
-  "name": "Jeremiah Scanlon",
-  "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+  "name": "Natalie Cohen",
+  "photo": "https://cdn.pixabay.com/photo/2017/01/20/18/25/girl-looking-away-1995624_960_720.jpg",
   "scores": [
   "5",
   "2",
@@ -49,24 +49,8 @@ var friendsArray = [
   ]
   },
   {
-  "name": "Louis T. Delia",
-  "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
-  "scores": [
-  "3",
-  "3",
-  "4",
-  "2",
-  "2",
-  "1",
-  "3",
-  "2",
-  "2",
-  "3"
-  ]
-  },
-  {
-  "name": "Lou Ritter",
-  "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+  "name": "Peter Young",
+  "photo": "https://cdn.pixabay.com/photo/2016/01/19/15/05/doctor-1149149_960_720.jpg",
   "scores": [
   "4",
   "3",
@@ -81,8 +65,8 @@ var friendsArray = [
   ]
   },
   {
-  "name": "Jordan Biason",
-  "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+  "name": "Gadi Noyman",
+  "photo": "https://cdn.pixabay.com/photo/2016/01/19/15/05/doctor-1149149_960_720.jpg",
   "scores": [
   "4",
   "4",
@@ -97,8 +81,8 @@ var friendsArray = [
   ]
   },
   {
-  "name": "Test Person",
-  "photo": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "name": "Miki Levi",
+  "photo": "https://cdn.pixabay.com/photo/2017/06/26/02/47/people-2442565_960_720.jpg",
   "scores": [
   "1",
   "3",
@@ -108,54 +92,6 @@ var friendsArray = [
   "1",
   "2",
   "2",
-  "2",
-  "2"
-  ]
-  },
-  {
-  "name": "Test Person",
-  "photo": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-  "scores": [
-  "1",
-  "3",
-  "4",
-  "1",
-  "2",
-  "1",
-  "2",
-  "2",
-  "2",
-  "2"
-  ]
-  },
-  {
-  "name": "ryan",
-  "photo": "www.imgur.com",
-  "scores": [
-  "2",
-  "3",
-  "4",
-  "3",
-  "3",
-  "3",
-  "4",
-  "4",
-  "3",
-  "3"
-  ]
-  },
-  {
-  "name": "Theo Elnecave",
-  "photo": "http://something.jpg",
-  "scores": [
-  "2",
-  "3",
-  "5",
-  "3",
-  "3",
-  "1",
-  "4",
-  "3",
   "2",
   "2"
   ]
